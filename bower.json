@@ -11,8 +11,8 @@
     "dist/angular-openlayers-directive.min.js"
   ],
   "dependencies": {
-    "angular": "1.4.9",
-    "angular-sanitize": "1.4.9",
+    "angular": "1.5.10",
+    "angular-sanitize": "1.5.10",
     "openlayers": "https://github.com/openlayers/ol3/releases/download/v3.16.0/v3.16.0-dist.zip"
   },
   "devDependencies": {
