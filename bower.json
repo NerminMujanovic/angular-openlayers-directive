@@ -17,8 +17,8 @@
   },
   "devDependencies": {
     "jquery": "*",
-    "angular-route": "1.4.9",
-    "angular-mocks": "1.4.9",
+    "angular-route": "1.5.10",
+    "angular-mocks": "1.5.10",
     "js-polyfills": "^0.1.20"
   },
   "ignore": [
